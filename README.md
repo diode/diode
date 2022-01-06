@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 Independant developer working from home
+
+⚡Javascript, ⚡Typescript, ⚡Svelte, ⚡React, ⚡Vue, ⚡NodeJS, ⚡WebGL, ⚡ThreeJS
+
+📫 https://try.catch.run
+📫 http://vipin.link/
