@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **diode/diode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+<kbd>
+  <img alt="The Knack" src="https://github.com/diode/diode/blob/main/knack.jpg" width="400" style="margin:0 auto;">
+</kbd>
+</p>
+
+### Hi there 👋
+
 🔭 Independant developer working from home
 
 ⚡Javascript, ⚡Typescript, ⚡Svelte, ⚡React, ⚡Vue, ⚡NodeJS, ⚡WebGL, ⚡ThreeJS
