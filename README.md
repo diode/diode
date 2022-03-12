@@ -25,9 +25,12 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
+
 🔭 Independant developer working from home
 
 ⚡Javascript, ⚡Typescript, ⚡Svelte, ⚡React, ⚡Vue, ⚡NodeJS, ⚡WebGL, ⚡ThreeJS
+
+<a href="https://stackoverflow.com/users/1019753/diode"><img src="https://stackoverflow.com/users/flair/1019753.png?theme=dark" width="208" height="58" alt="profile for Diode at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diode at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 📫 https://try.catch.run
 📫 http://vipin.link/
