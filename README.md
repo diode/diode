@@ -24,18 +24,19 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  ### Hi there 👋
+  ### 🔭 Independant Developer (WFH 🏠)
 
+  <p>
+    💪Javascript, 💪Typescript, 💪Svelte, 💪React, 💪Vue, 💪NodeJS, 💪WebGL, 💪ThreeJS
+  </p>
 
-  🔭 Independant developer working from home
-
-  ⚡Javascript, ⚡Typescript, ⚡Svelte, ⚡React, ⚡Vue, ⚡NodeJS, ⚡WebGL, ⚡ThreeJS
-
-  <kbd>
-  <a href="https://stackoverflow.com/users/1019753/diode"><img src="https://stackoverflow.com/users/flair/1019753.png?theme=dark" width="208" height="58" alt="profile for Diode at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diode at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-  </kbd>
-
-  📫 https://try.catch.run
-  📫 http://vipin.link/
+  <p>
+    <kbd>
+      <a href="https://stackoverflow.com/users/1019753/diode"><img src="https://stackoverflow.com/users/flair/1019753.png" width="208" height="58" alt="profile for Diode at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diode at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+    </kbd>
+  </p>
+  
+  <p>📫 https://try.catch.run</p>
+  <p>📫 http://vipin.link</p>
 
 </div>
