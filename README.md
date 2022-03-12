@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<div align="center">
 <kbd>
-  <img alt="The Knack" src="https://github.com/diode/diode/blob/main/knack.jpg" width="400" style="margin:0 auto;">
+  <img alt="The Knack" src="https://github.com/diode/diode/blob/main/knack.jpg" width="400" border="10">
 </kbd>
-</p>
+  <div align="center">"<i>If an engineer loses the knack the results can be devastating</i>"</div>
+  <div align="center"><a href="https://www.youtube.com/watch?v=g8vHhgh6oM0">The Knack</a></div>
+  
+</div>
 
 ### Hi there 👋
 
