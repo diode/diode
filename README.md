@@ -15,26 +15,27 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<kbd>
-  <img alt="The Knack" src="https://github.com/diode/diode/blob/main/knack.jpg" width="400" border="10">
-</kbd>
+  <kbd>
+    <img alt="The Knack" src="https://github.com/diode/diode/blob/main/knack.jpg" width="400" border="10">
+  </kbd>
   <div align="center">"<i>If an engineer loses the knack the results can be devastating</i>"</div>
   <div align="center"><a href="https://www.youtube.com/watch?v=g8vHhgh6oM0">The Knack</a></div>
-  
 </div>
 
 <div align="center">
 
-### Hi there 👋
+  ### Hi there 👋
 
 
-🔭 Independant developer working from home
+  🔭 Independant developer working from home
 
-⚡Javascript, ⚡Typescript, ⚡Svelte, ⚡React, ⚡Vue, ⚡NodeJS, ⚡WebGL, ⚡ThreeJS
+  ⚡Javascript, ⚡Typescript, ⚡Svelte, ⚡React, ⚡Vue, ⚡NodeJS, ⚡WebGL, ⚡ThreeJS
 
-<a href="https://stackoverflow.com/users/1019753/diode"><img src="https://stackoverflow.com/users/flair/1019753.png?theme=dark" width="208" height="58" alt="profile for Diode at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diode at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+  <kbd>
+  <a href="https://stackoverflow.com/users/1019753/diode"><img src="https://stackoverflow.com/users/flair/1019753.png?theme=dark" width="208" height="58" alt="profile for Diode at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diode at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+  </kbd>
 
-📫 https://try.catch.run
-📫 http://vipin.link/
+  📫 https://try.catch.run
+  📫 http://vipin.link/
 
 </div>
