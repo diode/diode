@@ -23,6 +23,8 @@ Here are some ideas to get you started:
   
 </div>
 
+<div align="center">
+
 ### Hi there 👋
 
 
@@ -34,3 +36,5 @@ Here are some ideas to get you started:
 
 📫 https://try.catch.run
 📫 http://vipin.link/
+
+</div>
