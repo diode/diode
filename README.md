@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  ### 🔭 Independant Developer (WFH 🏠)
+  ### Independant Developer (WFH <sup>🏠</sup>)
 
   <p>
-    💪Javascript, 💪Typescript, 💪Svelte, 💪React, 💪Vue, 💪NodeJS, 💪WebGL, 💪ThreeJS
+    <sup>💪</sup>Javascript&nbsp;&nbsp;&nbsp;<sup>💪</sup>Typescript&nbsp;&nbsp;&nbsp;<sup>💪</sup>Svelte&nbsp;&nbsp;&nbsp;<sup>💪</sup>React&nbsp;&nbsp;&nbsp;<sup>💪</sup>Vue&nbsp;&nbsp;&nbsp;<sup>💪</sup>NodeJS&nbsp;&nbsp;&nbsp;<sup>💪</sup>WebGL&nbsp;&nbsp;&nbsp;<sup>💪</sup>ThreeJS
   </p>
 
   <p>
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     </kbd>
   </p>
   
-  <p>📫 https://try.catch.run</p>
-  <p>📫 http://vipin.link</p>
+  <p>🔗 <a href="https://try.catch.run">try.catch.run</a></p>
+  <p>🔗 <a href="http://vipin.link">vipin.link</a></p></p>
 
 </div>
