@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  ### Independant Developer (WFH <sup>🏠</sup>)
+  ### Creative User Interface Specialist  <sup>WFH🏠</sup>
 
   <p>
     <sup>💪</sup>Javascript&nbsp;&nbsp;&nbsp;<sup>💪</sup>Typescript&nbsp;&nbsp;&nbsp;<sup>💪</sup>Svelte&nbsp;&nbsp;&nbsp;<sup>💪</sup>React&nbsp;&nbsp;&nbsp;<sup>💪</sup>Vue&nbsp;&nbsp;&nbsp;<sup>💪</sup>NodeJS&nbsp;&nbsp;&nbsp;<sup>💪</sup>WebGL&nbsp;&nbsp;&nbsp;<sup>💪</sup>ThreeJS
