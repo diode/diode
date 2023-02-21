@@ -37,6 +37,6 @@ Here are some ideas to get you started:
   </p>
   
   <p>🔗 <a href="https://try.catch.run">try.catch.run</a></p>
-  <p>🔗 <a href="https://vipin.link">vipin.link</a></p></p>
+  <p>🔗 <a href="https://vîpîn.com">vipin.link</a></p></p>
 
 </div>
