@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     </kbd>
   </p>
   
-  <p>🔗 <a href="https://try.catch.run">try.catch.run</a></p>
+  <p>🔗 <a href="https://trycatchrun.com">trycatchrun.com</a></p>
   <p>🔗 <a href="https://vîpîn.com">vipin.link</a></p></p>
 
 </div>
