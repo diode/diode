@@ -15,19 +15,16 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <kbd>
-    <img alt="The Knack" src="https://github.com/diode/diode/blob/main/knack.jpg" width="400" border="10">
-  </kbd>
-  <div align="center">"<i>If an engineer loses the knack the results can be devastating</i>"</div>
-  <div align="center"><a href="https://www.youtube.com/watch?v=g8vHhgh6oM0">The Knack</a></div>
-</div>
 
-<div align="center">
-
-  ### Creative User Interface Specialist  <sup>WFH🏠</sup>
+  ### Technical Architect
+  #### Creative User Interface Specialist
 
   <p>
-    <sup>💪</sup>Javascript&nbsp;&nbsp;&nbsp;<sup>💪</sup>Typescript&nbsp;&nbsp;&nbsp;<sup>💪</sup>Svelte&nbsp;&nbsp;&nbsp;<sup>💪</sup>React&nbsp;&nbsp;&nbsp;<sup>💪</sup>Vue&nbsp;&nbsp;&nbsp;<sup>💪</sup>NodeJS&nbsp;&nbsp;&nbsp;<sup>💪</sup>WebGL&nbsp;&nbsp;&nbsp;<sup>💪</sup>ThreeJS
+    <sup>⚡</sup>Javascript&nbsp;&nbsp;&nbsp;<sup>⚡</sup>Typescript&nbsp;&nbsp;&nbsp;<sup>⚡</sup>Svelte&nbsp;&nbsp;&nbsp;<sup>⚡</sup>React&nbsp;&nbsp;&nbsp;<sup>⚡</sup>Vue&nbsp;&nbsp;&nbsp;<sup>⚡</sup>NodeJS&nbsp;&nbsp;&nbsp;<sup>⚡</sup>WebGL&nbsp;&nbsp;&nbsp;<sup>⚡</sup>ThreeJS
+  </p>
+
+  <p>
+    <sup>⚡</sup>AWS&nbsp;&nbsp;&nbsp;<sup>⚡</sup>Firebase&nbsp;&nbsp;&nbsp;<sup>⚡</sup>Serverless&nbsp;&nbsp;&nbsp;
   </p>
 
   <p>
@@ -39,4 +36,12 @@ Here are some ideas to get you started:
   <p>🔗 <a href="https://trycatchrun.com">trycatchrun.com</a></p>
   <p>🔗 <a href="https://vîpîn.com">vipin.link</a></p></p>
 
+</div>
+
+<div align="center">
+  <kbd>
+    <img alt="The Knack" src="https://github.com/diode/diode/blob/main/knack.jpg" width="400" border="10">
+  </kbd>
+  <div align="center">"<i>If an engineer loses the knack the results can be devastating</i>"</div>
+  <div align="center"><a href="https://www.youtube.com/watch?v=g8vHhgh6oM0">The Knack</a></div>
 </div>
