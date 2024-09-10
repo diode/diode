@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   </p-->
   
   <p>🔗 <a href="https://trycatchrun.com">trycatchrun.com</a></p>
-  <p>🔗 <a href="https://vîpîn.com">vipin.link</a></p></p>
+  <p>🔗 <a href="https://vipin.link">vîpîn.com</a></p></p>
 
 </div>
 
