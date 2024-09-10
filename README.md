@@ -27,11 +27,11 @@ Here are some ideas to get you started:
     <sup>⚡</sup>AWS&nbsp;&nbsp;&nbsp;<sup>⚡</sup>Firebase&nbsp;&nbsp;&nbsp;<sup>⚡</sup>Serverless&nbsp;&nbsp;&nbsp;
   </p>
 
-  <p>
+  <!--p>
     <kbd>
       <a href="https://stackoverflow.com/users/1019753/diode"><img src="https://stackoverflow.com/users/flair/1019753.png" width="208" height="58" alt="profile for Diode at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Diode at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
     </kbd>
-  </p>
+  </p-->
   
   <p>🔗 <a href="https://trycatchrun.com">trycatchrun.com</a></p>
   <p>🔗 <a href="https://vîpîn.com">vipin.link</a></p></p>
