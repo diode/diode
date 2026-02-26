@@ -32,8 +32,8 @@ Here are some ideas to get you started:
     </kbd>
   </p-->
   
-  <p>🔗 <a href="https://trycatchrun.com">trycatchrun</a></p>
-  <p>🔗 <a href="https://vipin.link">vîpîn</a></p></p>
+  <p>🔗 <a href="https://try-catch-run.web.app">trycatchrun</a></p>
+  <p>🔗 <a href="https://vipin.page">vîpîn</a></p></p>
 
 </div>
 
