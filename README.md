@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   </p-->
   
   <p>🔗 <a href="https://try-catch-run.web.app">trycatchrun</a></p>
-  <p>🔗 <a href="https://vipin.page">vîpîn</a></p></p>
+  <p>🔗 <a href="https://vipin-vikraman.web.app">vîpîn</a></p></p>
 
 </div>
 
